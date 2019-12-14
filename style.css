@@ -1,0 +1,114 @@
+/* Write some CSS below */
+h1, h2, h3, h4 {
+	font-family: 'Lato', sans-serif;
+	font-weight:bold;
+	color:#CCAD8F;
+}
+
+p {
+	font-family: "Lato, sans-serif"
+	font-weight:thin;
+	color: #7EA3CC;
+}
+h1 {
+	font-size: 40px;
+	color:#CCAD8F
+}
+
+h2{
+	font-size: 24px;
+	color:#CCAD8F
+}
+
+a {
+	color:#CCAD8F
+	text-decoration: none;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+	background-color: 
+	color:rgb(230,230,230);
+	font-size:18px;
+	font-weight:lighter;
+	margin=0
+
+}
+.banner {
+	text-align: center;
+	color: rgb(20,20, 2o);
+	background-image: url("https://source.unsplash.com/random");
+	padding: 150px 0px
+	background-size: cover;
+	background-position: center;
+	height: 500px;
+
+}
+.banner h1 {
+	font-size: 56px:
+}
+.banner p {
+	opacity: 1;
+	font-size: 32px
+	font-weight:lighter;
+	margin-bottom: 40px;
+}
+
+.btn-purple {
+	background-color: #CCAD8F;
+	color: 230,230,230;
+	padding: 15px 20px;
+	border-radius: 10px;
+	box-shadow: 0px 5px 6px rgb(50,50, 50);
+
+}
+
+.btn-purple:hover {
+	background-color: green:
+	color: 230,230, 230;
+}
+
+.card-white {
+	background-color: white;
+	border-radius:4px;
+	text-align: center;
+	padding: 16px;
+	margin:16px 0;
+	box-shadow: 0px 5px 6px rgb(200,200, 200);
+	background-position: center;
+
+
+}
+
+.card-white img {
+width: 180px
+height 180px
+object-fit:cover
+border-radius: 4px;
+}
+
+.footer {
+	background-color: 20,20,20;
+	color:white;
+	padding: 5px
+
+}
+
+.footer p {
+	color:green;
+}
+
+.footer a{
+	color:black;
+
+}
+
+.list-inline {
+list-style: none
+padding-left:0px;
+}
+
+.list-inline li {
+ display: inline;
+}
+
